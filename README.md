@@ -1,0 +1,2 @@
+# Algerian-Forest-Fire-Prediction-using-Linear-Regression-and-Regularization-Techniques
+A machine learning project that predicts the Fire Weather Index (FWI) using the Algerian Forest Fires dataset. This notebook covers data preprocessing, feature selection through correlation analysis, feature scaling, and the implementation of multiple regression models including Linear Regression, Lasso, Ridge, and Elastic Net.
